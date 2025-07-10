@@ -201,7 +201,7 @@ nav svg {
   top: 0;
 }
 .heroSection .container .banner .textWithSvg .title:first-child {
-  padding-left: 120px; /* You can also change this value */
+  padding-left: 120px; 
 } 
 .heroSection .container .banner:first-child .dishes_title {
   display: none;
@@ -224,7 +224,7 @@ nav svg {
 }
 .heroSection .largeBox .title {
   position: relative;
-  left: 120px; /* Adjust this negative value to move it left */
+  left: 120px; 
 }
 @media (max-width: 1280px) {
   .heroSection .container {
